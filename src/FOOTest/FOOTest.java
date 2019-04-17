@@ -1,5 +1,6 @@
-package FOO;
+package FOOTest;
 
+import FOO.FOO;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -10,7 +11,7 @@ public class FOOTest {
     @Test
     public void testMessage(){
         String s = "Strängen som skickades in: hej!";
-        assertEquals(s, new FOO().message("hej!"));
+        Assert.assertEquals(s, new FOO().message("hej!"));
 
     }
 }
