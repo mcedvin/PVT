@@ -1,7 +1,7 @@
 package FOO;
 
 public class FOO {
-    public static void main(String[] args){
-        System.out.println("GIT! Test");
+    String message(String s){
+        return "Strängen som skickades in: " + s;
     }
 }
