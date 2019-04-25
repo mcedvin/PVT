@@ -1,3 +1,5 @@
+package JSON;
+
 import com.google.gson.Gson;
 
 public class JSonParser {
