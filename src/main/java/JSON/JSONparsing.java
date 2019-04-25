@@ -34,13 +34,6 @@ public class JSONparsing {
         System.out.println(p);
 
     }
-//    public void parsePosition(String s){
-//        String x = "";
-//        String y = "";
-//        for(int i = 0; i<s.length();i++){
-////            if(s.charAt(i))
-//        }
-//    }
     public static void main(String[] args){
         try{
 
