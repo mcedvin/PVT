@@ -1,6 +1,7 @@
 package JSON;
 
 
+import Objects.Position;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
@@ -19,11 +20,27 @@ public class JSONparsing {
         InputStreamReader reader = new InputStreamReader(url.openStream());
         JsonParser parser = new JsonParser();
         JsonElement rootElement = parser.parse(reader);
-        JsonArray root = rootElement.getAsJsonArray();
-        for(int i = 0; i<root.size();i++)
-            System.out.println(root.get(i) + "\n");
+        JsonArray rootAsArray = rootElement.getAsJsonArray();
+        for(int i = 0; i<rootAsArray.size();i++){
+//            System.out.println(rootAsArray.get(i) + "\n");
+            JsonObject position = rootAsArray.get(i).getAsJsonObject().getAsJsonObject("GeographicalPosition");
+            parsePosition(position);
+        }
+    }
+    public void parsePosition(JsonObject position){
+        int x = position.get("X").getAsInt();
+        int y = position.get("Y").getAsInt();
+        Position p = new Position(x,y);
+        System.out.println(p);
 
     }
+//    public void parsePosition(String s){
+//        String x = "";
+//        String y = "";
+//        for(int i = 0; i<s.length();i++){
+////            if(s.charAt(i))
+//        }
+//    }
     public static void main(String[] args){
         try{
 
