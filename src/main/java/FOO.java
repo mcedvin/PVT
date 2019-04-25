@@ -1,5 +1,3 @@
-package FOO;
-
 public class FOO {
     public String message(String s){
         return "Strängen som skickades in: " + s;

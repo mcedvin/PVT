@@ -1,6 +1,3 @@
-package FOOTest;
-
-import FOO.FOO;
 import org.junit.Assert;
 import org.junit.Test;
 
