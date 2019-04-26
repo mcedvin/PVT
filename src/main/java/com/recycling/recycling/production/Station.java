@@ -1,7 +1,5 @@
 package com.recycling.recycling.production;
 
-import javafx.geometry.Pos;
-
 import java.util.ArrayList;
 import java.util.Date;
 
