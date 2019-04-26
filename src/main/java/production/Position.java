@@ -1,4 +1,4 @@
-package Objects;
+package production;
 
 public class Position {
     private int x;
