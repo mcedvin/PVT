@@ -1,0 +1,945 @@
+
+[
+
+  {
+    "GeographicalPosition": {
+      "X": 6572308,
+      "Y": 1627257
+    },
+    "Id": "a86a2087-ad74-42be-bda8-852502886154",
+    "Name": "Bäverdalens bollplan",
+    "TimeCreated": "/Date(1207585071493+0200)/",
+    "TimeUpdated": "/Date(1553246938287+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6574694,
+      "Y": 1625664
+    },
+    "Id": "ed7db206-8796-421e-a85b-f5a309e9383f",
+    "Name": "Älvsjö IP",
+    "TimeCreated": "/Date(1207303596297+0200)/",
+    "TimeUpdated": "/Date(1535616432533+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6577112,
+      "Y": 1623725
+    },
+    "Id": "6da40d66-54dc-499b-9cb1-80c83c9f3e90",
+    "Name": "Hägerstensåsens bollplan",
+    "TimeCreated": "/Date(1207751405627+0200)/",
+    "TimeUpdated": "/Date(1553247195023+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6575638,
+      "Y": 1631520
+    },
+    "Id": "b5c99edb-0f3e-4241-b65e-c5e1470db9dc",
+    "Name": "Skarpnäcks bollplan",
+    "TimeCreated": "/Date(1207776962453+0200)/",
+    "TimeUpdated": "/Date(1549285326757+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6579177,
+      "Y": 1625008
+    },
+    "Id": "0cfd11a3-02e9-4769-b5c6-b998d37ca91f",
+    "Name": "Gröndals bollplan",
+    "TimeCreated": "/Date(1207735760467+0200)/",
+    "TimeUpdated": "/Date(1553247131100+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6583223,
+      "Y": 1627928
+    },
+    "Id": "efdc1d1b-a4d9-40bc-9dca-baa3e5fee00a",
+    "Name": "Johannes Bollplan",
+    "TimeCreated": "/Date(1207768969320+0200)/",
+    "TimeUpdated": "/Date(1537967186493+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6588967,
+      "Y": 1620397
+    },
+    "Id": "8169a79c-9f73-45d2-8352-464bda3573ef",
+    "Name": "Granby bollplan",
+    "TimeCreated": "/Date(1207730196440+0200)/",
+    "TimeUpdated": "/Date(1542101690747+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6587113,
+      "Y": 1619452
+    },
+    "Id": "fee6ff44-e969-4514-9342-16c8db989471",
+    "Name": "Spånga Fotbollshall",
+    "TimeCreated": "/Date(1207768591707+0200)/",
+    "TimeUpdated": "/Date(1553248186357+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6582414,
+      "Y": 1630852
+    },
+    "Id": "0de85921-da9a-4477-a384-9420ea45c6ba",
+    "Name": "Gärdets sportfält",
+    "TimeCreated": "/Date(1207739154883+0200)/",
+    "TimeUpdated": "/Date(1551685525940+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6581616,
+      "Y": 1626057
+    },
+    "Id": "900603db-6251-4f14-8fa6-dd1041eba11f",
+    "Name": "Stadshagens IP",
+    "TimeCreated": "/Date(1207768048700+0200)/",
+    "TimeUpdated": "/Date(1553246231303+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6578429,
+      "Y": 1628692
+    },
+    "Id": "8becc9fb-5cf5-489f-b9c5-dd2e63d6f59e",
+    "Name": "Eriksdals bollplan",
+    "TimeCreated": "/Date(1207650058933+0200)/",
+    "TimeUpdated": "/Date(1553247082813+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6574350,
+      "Y": 1631966
+    },
+    "Id": "023a8dad-05b6-47fa-a4fc-4d13803b608c",
+    "Name": "Skarpnäcks sportfält",
+    "TimeCreated": "/Date(1207776709200+0200)/",
+    "TimeUpdated": "/Date(1553246179960+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6585003,
+      "Y": 1616977
+    },
+    "Id": "c9b55ba0-befe-4853-b87d-012e71dab3f4",
+    "Name": "Vinsta bollplan",
+    "TimeCreated": "/Date(1207676628953+0200)/",
+    "TimeUpdated": "/Date(1524033023120+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6578098,
+      "Y": 1623292
+    },
+    "Id": "085220a0-ab56-4385-8dc2-048675b2bec3",
+    "Name": "Axelsbergs bollplan",
+    "TimeCreated": "/Date(1207560367677+0200)/",
+    "TimeUpdated": "/Date(1542277426303+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6582876,
+      "Y": 1629576
+    },
+    "Id": "d86b119b-d419-4980-949a-084528626f67",
+    "Name": "Östermalms IP",
+    "TimeCreated": "/Date(1207296719630+0200)/",
+    "TimeUpdated": "/Date(1551685198777+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6584426,
+      "Y": 1616063
+    },
+    "Id": "8def3bbd-7de4-435b-8fe4-0b7d6225abe7",
+    "Name": "Hässelängens bollplan",
+    "TimeCreated": "/Date(1207762280860+0200)/",
+    "TimeUpdated": "/Date(1524032399487+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6574194,
+      "Y": 1627649
+    },
+    "Id": "1c239205-34d3-4d31-b1a1-0ff84f2901dd",
+    "Name": "Bäckahagens BP",
+    "TimeCreated": "/Date(1207584598487+0200)/",
+    "TimeUpdated": "/Date(1553246928130+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6574710,
+      "Y": 1626754
+    },
+    "Id": "7423f112-e56b-49ce-9c88-132e1a48c9f2",
+    "Name": "Örby bollplan",
+    "TimeCreated": "/Date(1207302022043+0200)/",
+    "TimeUpdated": "/Date(1553248642633+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6588476,
+      "Y": 1621005
+    },
+    "Id": "d3f58795-7fef-4ef1-bd3b-167d69fe1663",
+    "Name": "Ärvinge bollplan",
+    "TimeCreated": "/Date(1207302451800+0200)/",
+    "TimeUpdated": "/Date(1542101646077+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6572725,
+      "Y": 1631372
+    },
+    "Id": "690850f0-7767-4e9d-bdaf-198ff1bd1d2c",
+    "Name": "Sköndals bollplan",
+    "TimeCreated": "/Date(1207774394313+0200)/",
+    "TimeUpdated": "/Date(1553248004520+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6575654,
+      "Y": 1620262
+    },
+    "Id": "1ca33fa6-4fdb-4920-8e3b-614b703f0e5e",
+    "Name": "Sätradalens bollplan",
+    "TimeCreated": "/Date(1209993605553+0200)/",
+    "TimeUpdated": "/Date(1553248314003+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6575385,
+      "Y": 1627887
+    },
+    "Id": "7a6e967a-6bc6-447d-834c-421f0c7a4088",
+    "Name": "Stureby bollplan",
+    "TimeCreated": "/Date(1209993153250+0200)/",
+    "TimeUpdated": "/Date(1553248259927+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6577102,
+      "Y": 1624952
+    },
+    "Id": "29d0efd1-1120-4e10-8ded-423b0a6e280a",
+    "Name": "Västberga IP",
+    "TimeCreated": "/Date(1222325823923+0200)/",
+    "TimeUpdated": "/Date(1553246397167+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6584256,
+      "Y": 1615123
+    },
+    "Id": "0e739df9-e6a1-423c-b1c7-74001a85fc2c",
+    "Name": "Maltesholmsskolans bollplan",
+    "TimeCreated": "/Date(1207840211663+0200)/",
+    "TimeUpdated": "/Date(1542281816860+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6575546,
+      "Y": 1622887
+    },
+    "Id": "1e756ce1-a05a-4252-b44b-fe767bbd2407",
+    "Name": "Fruängens bollplan",
+    "TimeCreated": "/Date(1207678847310+0200)/",
+    "TimeUpdated": "/Date(1551254476550+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6575459,
+      "Y": 1632699
+    },
+    "Id": "fbe8816a-c98c-41b8-b918-2b781a9e131e",
+    "Name": "Bagarmossens Bollplan",
+    "TimeCreated": "/Date(1207563355497+0200)/",
+    "TimeUpdated": "/Date(1553246792020+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6574441,
+      "Y": 1632478
+    },
+    "Id": "c39fe245-f26a-4aa2-94a5-1d7df96dde94",
+    "Name": "Tätorps Bollplan",
+    "TimeCreated": "/Date(1207678916077+0200)/",
+    "TimeUpdated": "/Date(1553248547163+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6581147,
+      "Y": 1619500
+    },
+    "Id": "b3db4be3-01ed-435b-bf6e-1e34ad8305ae",
+    "Name": "Nockebyhovs bollplan",
+    "TimeCreated": "/Date(1207835926920+0200)/",
+    "TimeUpdated": "/Date(1524028852460+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6576989,
+      "Y": 1620998
+    },
+    "Id": "2d2c682c-61a9-4dfd-a1a5-2944eadd4925",
+    "Name": "Bredängs bollplan",
+    "TimeCreated": "/Date(1207577702180+0200)/",
+    "TimeUpdated": "/Date(1553246866603+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6585469,
+      "Y": 1627976
+    },
+    "Id": "62749cc1-1ec8-4b64-9a57-297fdcc2cd67",
+    "Name": "Ekhagens BP",
+    "TimeCreated": "/Date(1207646669890+0200)/",
+    "TimeUpdated": "/Date(1553246962643+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6579116,
+      "Y": 1630293
+    },
+    "Id": "85ede20f-4955-4eb0-8242-33fa23557af2",
+    "Name": "Sofiaskolans bollplan",
+    "TimeCreated": "/Date(1207773017843+0200)/",
+    "TimeUpdated": "/Date(1524037857433+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6584879,
+      "Y": 1618416
+    },
+    "Id": "afbd03d1-20e4-41d4-9ed7-3732a59b77b2",
+    "Name": "Nälsta bollplan",
+    "TimeCreated": "/Date(1207832495940+0200)/",
+    "TimeUpdated": "/Date(1553247943080+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6580926,
+      "Y": 1622050
+    },
+    "Id": "2def1b36-2b8b-46f4-b77c-3c02a75d8ba5",
+    "Name": "Abrahamsbergs bollplan",
+    "TimeCreated": "/Date(1207296663613+0200)/",
+    "TimeUpdated": "/Date(1537962445100+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6586021,
+      "Y": 1619913
+    },
+    "Id": "4f5c7ec7-b41c-4dfd-b6b1-4119a9cf1f00",
+    "Name": "Bromstens IP",
+    "TimeCreated": "/Date(1207583534847+0200)/",
+    "TimeUpdated": "/Date(1553246891570+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6580159,
+      "Y": 1623084
+    },
+    "Id": "1f2cd10b-5156-43d7-9c46-478eb06fddbc",
+    "Name": "Drömdungens bollplan",
+    "TimeCreated": "/Date(1207645387517+0200)/",
+    "TimeUpdated": "/Date(1523346366110+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6582182,
+      "Y": 1627463
+    },
+    "Id": "f0a3b217-47ac-414c-969e-482a6bd5a874",
+    "Name": "Vasaparkens bollplan",
+    "TimeCreated": "/Date(1268728353793+0100)/",
+    "TimeUpdated": "/Date(1524050879060+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6582075,
+      "Y": 1629797
+    },
+    "Id": "2c527c6b-aaef-41ab-8099-48cf1c5108fc",
+    "Name": "Östra Reals bollplan",
+    "TimeCreated": "/Date(1268382553647+0100)/",
+    "TimeUpdated": "/Date(1553248654110+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6578382,
+      "Y": 1624570
+    },
+    "Id": "7c48bb11-6ea0-47d0-94af-4aa1c78050f9",
+    "Name": "Aspuddens IP",
+    "TimeCreated": "/Date(1207554102857+0200)/",
+    "TimeUpdated": "/Date(1553245671777+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6586450,
+      "Y": 1617905
+    },
+    "Id": "4bf4492d-03fc-4cd6-ba91-4fc7c4647023",
+    "Name": "Mellangårdens Bollplan",
+    "TimeCreated": "/Date(1207838226857+0200)/",
+    "TimeUpdated": "/Date(1542281904343+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6577922,
+      "Y": 1626001
+    },
+    "Id": "19832933-79eb-495c-8fc4-5009817c48d7",
+    "Name": "Brännkyrka bollplan",
+    "TimeCreated": "/Date(1207584000540+0200)/",
+    "TimeUpdated": "/Date(1537948736627+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6571276,
+      "Y": 1630969
+    },
+    "Id": "87bb47b8-edeb-492f-8b2e-511053fe2d62",
+    "Name": "Hästhagens bollplan",
+    "TimeCreated": "/Date(1207762299660+0200)/",
+    "TimeUpdated": "/Date(1553247261870+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6574853,
+      "Y": 1633282
+    },
+    "Id": "e7a3bd69-72a9-4d44-a29e-577c37e75e2c",
+    "Name": "Brotorps bollplan",
+    "TimeCreated": "/Date(1207583767647+0200)/",
+    "TimeUpdated": "/Date(1553246905447+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6589117,
+      "Y": 1620851
+    },
+    "Id": "86cb3fb8-6901-40a9-8760-587e614e0176",
+    "Name": "Kvarnbacka bollplan",
+    "TimeCreated": "/Date(1209977012263+0200)/",
+    "TimeUpdated": "/Date(1553247461870+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6582128,
+      "Y": 1620687
+    },
+    "Id": "5cd88a52-2284-47af-90df-58eb21dbf8d0",
+    "Name": "Nya Elementars bollplan",
+    "TimeCreated": "/Date(1207833210417+0200)/",
+    "TimeUpdated": "/Date(1524028934343+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6577936,
+      "Y": 1627201
+    },
+    "Id": "2e786f00-0e70-4779-913c-594e32e2271e",
+    "Name": "Årsta gårds bollplan",
+    "TimeCreated": "/Date(1207669183810+0200)/",
+    "TimeUpdated": "/Date(1553248619030+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6581617,
+      "Y": 1625105
+    },
+    "Id": "6cf6e3c4-927d-483a-b497-5a0e074c0039",
+    "Name": "Kristinebergs BP",
+    "TimeCreated": "/Date(1268379843860+0100)/",
+    "TimeUpdated": "/Date(1524033192037+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6573827,
+      "Y": 1627421
+    },
+    "Id": "71f122a9-0d2a-4a62-a796-5aec36d9e6fc",
+    "Name": "Högdalens bollplan",
+    "TimeCreated": "/Date(1207762912713+0200)/",
+    "TimeUpdated": "/Date(1553247275773+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6574727,
+      "Y": 1632606
+    },
+    "Id": "1d59a450-d373-4668-ac17-5c26026a9305",
+    "Name": "Bergholms bollplan",
+    "TimeCreated": "/Date(1207567408343+0200)/",
+    "TimeUpdated": "/Date(1553246816773+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6587300,
+      "Y": 1620384
+    },
+    "Id": "faa0f8df-1a74-4449-ae82-606bc2f09aba",
+    "Name": "Rinkeby bollplan",
+    "TimeCreated": "/Date(1207828429807+0200)/",
+    "TimeUpdated": "/Date(1542282037797+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6572917,
+      "Y": 1626726
+    },
+    "Id": "88f773c8-ce72-42d6-b23d-67c5d6ca0448",
+    "Name": "Rågsveds BP",
+    "TimeCreated": "/Date(1207825065907+0200)/",
+    "TimeUpdated": "/Date(1553247971663+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6576156,
+      "Y": 1622658
+    },
+    "Id": "4643c1b7-ba1c-4861-8749-6bba71cd77c9",
+    "Name": "Mälarhöjdens IP",
+    "TimeCreated": "/Date(1207836410350+0200)/",
+    "TimeUpdated": "/Date(1554203193647+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6581577,
+      "Y": 1620696
+    },
+    "Id": "23e9b235-35f1-40a6-a88b-6dbeebe53db9",
+    "Name": "Åkeshovs bollplan",
+    "TimeCreated": "/Date(1207671684310+0200)/",
+    "TimeUpdated": "/Date(1524029246917+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6574687,
+      "Y": 1618016
+    },
+    "Id": "018a7593-fddf-4a96-b911-6f34d239aa20",
+    "Name": "Johannesdals bollplan",
+    "TimeCreated": "/Date(1207771232117+0200)/",
+    "TimeUpdated": "/Date(1553247416843+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6583831,
+      "Y": 1617289
+    },
+    "Id": "7632eff0-3f36-416d-8cc8-7262ae3beced",
+    "Name": "Grimsta bollplan",
+    "TimeCreated": "/Date(1207730875623+0200)/",
+    "TimeUpdated": "/Date(1542280822263+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6571824,
+      "Y": 1630122
+    },
+    "Id": "0a999695-febc-4bfa-8518-79ab6f7ed5b2",
+    "Name": "Västboda bollplan",
+    "TimeCreated": "/Date(1207673970030+0200)/",
+    "TimeUpdated": "/Date(1553248585973+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6573568,
+      "Y": 1628140
+    },
+    "Id": "324bef42-4945-4190-9ae0-8c5f5ce0014d",
+    "Name": "Bandhagens skolas bollplan",
+    "TimeCreated": "/Date(1209720290997+0200)/",
+    "TimeUpdated": "/Date(1553246805077+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6574991,
+      "Y": 1627487
+    },
+    "Id": "53f181aa-e46e-4d3a-91d3-96322a6b8442",
+    "Name": "Stureby skolas BP",
+    "TimeCreated": "/Date(1207765963393+0200)/",
+    "TimeUpdated": "/Date(1524030282280+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6582286,
+      "Y": 1618611
+    },
+    "Id": "017fc8b0-4897-4f22-97e7-96cb6e4245e1",
+    "Name": "Ängby södra bollplan",
+    "TimeCreated": "/Date(1207303131027+0200)/",
+    "TimeUpdated": "/Date(1524029685383+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6589946,
+      "Y": 1620688
+    },
+    "Id": "75f8d7dc-6adf-4741-9cfe-a1d1c4acb60a",
+    "Name": "Dalhagens bollplan",
+    "TimeCreated": "/Date(1207643636820+0200)/",
+    "TimeUpdated": "/Date(1542101709830+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6580967,
+      "Y": 1621521
+    },
+    "Id": "4df62297-2ce9-4456-ab08-a2583780f060",
+    "Name": "Olovslunds bollplan",
+    "TimeCreated": "/Date(1207831703570+0200)/",
+    "TimeUpdated": "/Date(1538114854740+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6585850,
+      "Y": 1619325
+    },
+    "Id": "dff1bb72-d744-4b02-a793-a68432fbf38e",
+    "Name": "Solhems bollplan",
+    "TimeCreated": "/Date(1207770634360+0200)/",
+    "TimeUpdated": "/Date(1542101347173+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6573258,
+      "Y": 1625492
+    },
+    "Id": "a75e9edf-ac3f-45d1-8590-a730772f073e",
+    "Name": "Ormkärrs bollplan",
+    "TimeCreated": "/Date(1207831409550+0200)/",
+    "TimeUpdated": "/Date(1524029923447+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6584968,
+      "Y": 1615497
+    },
+    "Id": "0e72bccd-2c46-467e-a71e-a9d721e97aa0",
+    "Name": "Hässelby gårds bollplan",
+    "TimeCreated": "/Date(1207758967583+0200)/",
+    "TimeUpdated": "/Date(1553247213373+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6586046,
+      "Y": 1618080
+    },
+    "Id": "037dcfcb-cc12-43a9-a8a1-ad2cfc79190c",
+    "Name": "Gläntan",
+    "TimeCreated": "/Date(1207730025627+0200)/",
+    "TimeUpdated": "/Date(1553150956440+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6576580,
+      "Y": 1631003
+    },
+    "Id": "5d2cc847-b8f9-457d-87eb-adf7ef005936",
+    "Name": "Nytorps bollplan",
+    "TimeCreated": "/Date(1207833011540+0200)/",
+    "TimeUpdated": "/Date(1553247923020+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6585939,
+      "Y": 1614788
+    },
+    "Id": "667fc61c-ebed-4456-a8aa-b19e34f1d90a",
+    "Name": "Smedshagens Bollplan",
+    "TimeCreated": "/Date(1383718554817+0100)/",
+    "TimeUpdated": "/Date(1553248015827+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6573435,
+      "Y": 1630505
+    },
+    "Id": "5ac236d0-4040-437c-b216-cabe9e148fd2",
+    "Name": "Gubbängens bollplan",
+    "TimeCreated": "/Date(1207737962980+0200)/",
+    "TimeUpdated": "/Date(1553247146057+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6584250,
+      "Y": 1621915
+    },
+    "Id": "09fcdd00-3133-4b6b-9257-d2a89fa24277",
+    "Name": "Mariehälls Bollplan",
+    "TimeCreated": "/Date(1207839163680+0200)/",
+    "TimeUpdated": "/Date(1524028779720+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6573316,
+      "Y": 1631584
+    },
+    "Id": "e588175a-0d63-4bad-965a-d5dcb3b48fe5",
+    "Name": "Sandåkra Bollplan",
+    "TimeCreated": "/Date(1207777747683+0200)/",
+    "TimeUpdated": "/Date(1553247980933+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6584532,
+      "Y": 1618134
+    },
+    "Id": "ab04f9bf-6a35-4d76-b2a0-e1c34845592c",
+    "Name": "Vällingby bollplan",
+    "TimeCreated": "/Date(1207675127543+0200)/",
+    "TimeUpdated": "/Date(1524033109887+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6586671,
+      "Y": 1620794
+    },
+    "Id": "8df9e769-f636-49a6-83ff-e2665e191950",
+    "Name": "Knutby bollplan",
+    "TimeCreated": "/Date(1207777848230+0200)/",
+    "TimeUpdated": "/Date(1542101669237+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6574765,
+      "Y": 1624249
+    },
+    "Id": "ef13146d-5d11-457c-8255-e6bd57110457",
+    "Name": "Långbro Bollplan",
+    "TimeCreated": "/Date(1207853639553+0200)/",
+    "TimeUpdated": "/Date(1553247504957+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6581513,
+      "Y": 1625213
+    },
+    "Id": "738b21de-b41f-4db6-909d-e8e8b91e51f5",
+    "Name": "Kristinebergs IP",
+    "TimeCreated": "/Date(1209448894897+0200)/",
+    "TimeUpdated": "/Date(1550755066770+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6575383,
+      "Y": 1620185
+    },
+    "Id": "3ab2a5e6-efde-4ff0-9030-faea1ab439c9",
+    "Name": "Sätra Bollplan konstgräs",
+    "TimeCreated": "/Date(1268380858347+0100)/",
+    "TimeUpdated": "/Date(1553248304343+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6572705,
+      "Y": 1627130
+    },
+    "Id": "47f0f820-4ffc-43fa-95de-7109cc17d30d",
+    "Name": "Snösätraskolans bollplan",
+    "TimeCreated": "/Date(1207773417473+0200)/",
+    "TimeUpdated": "/Date(1553248037580+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6574719,
+      "Y": 1630387
+    },
+    "Id": "81252e34-57f1-406b-89c5-71b983f4d943",
+    "Name": "Tallkrogens bollplan",
+    "TimeCreated": "/Date(1207760595823+0200)/",
+    "TimeUpdated": "/Date(1553248327983+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6580666,
+      "Y": 1622740
+    },
+    "Id": "40e1d481-9efd-4da7-9918-aabf9d18da65",
+    "Name": "Stora Mossens IP",
+    "TimeCreated": "/Date(1207766365257+0200)/",
+    "TimeUpdated": "/Date(1553246297483+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6575383,
+      "Y": 1620185
+    },
+    "Id": "59176d38-e60d-4452-afe0-ec460b02b811",
+    "Name": "Sätra Bollplan",
+    "TimeCreated": "/Date(1207762961947+0200)/",
+    "TimeUpdated": "/Date(1553248292340+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6583026,
+      "Y": 1619748
+    },
+    "Id": "6de8710c-cb9e-435e-b29c-9f674241e429",
+    "Name": "Ängby IP",
+    "TimeCreated": "/Date(1207303159400+0200)/",
+    "TimeUpdated": "/Date(1553246516880+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6589756,
+      "Y": 1619753
+    },
+    "Id": "ca1b8d7e-ee34-4c2f-b347-d5364fe1b5b1",
+    "Name": "Akalla gårds bollplan",
+    "TimeCreated": "/Date(1207298724030+0200)/",
+    "TimeUpdated": "/Date(1553246763287+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6574411,
+      "Y": 1622907
+    },
+    "Id": "8c75c7e8-54e5-4b46-ba76-1065c445ee2b",
+    "Name": "Herrängens bollplan",
+    "TimeCreated": "/Date(1207670043273+0200)/",
+    "TimeUpdated": "/Date(1553151854057+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6579050,
+      "Y": 1627628
+    },
+    "Id": "d4142768-2985-4a28-9899-10ccc78aa9d4",
+    "Name": "Tantolundens Bollplan",
+    "TimeCreated": "/Date(1207760305710+0200)/",
+    "TimeUpdated": "/Date(1553248537720+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6579834,
+      "Y": 1626549
+    },
+    "Id": "f747bc71-be28-47fa-bb59-d84208430e86",
+    "Name": "Långholmens bollplan",
+    "TimeCreated": "/Date(1207854764160+0200)/",
+    "TimeUpdated": "/Date(1553247520887+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6575602,
+      "Y": 1629319
+    },
+    "Id": "6d407641-ebeb-4dde-9e0f-23f1c28cbf37",
+    "Name": "Enskede IP",
+    "TimeCreated": "/Date(1207648497367+0200)/",
+    "TimeUpdated": "/Date(1554275958717+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6583533,
+      "Y": 1627601
+    },
+    "Id": "4bbbc53a-a9e6-47c0-bcb5-876e27967107",
+    "Name": "Bellevue bollplan",
+    "TimeCreated": "/Date(1207567273873+0200)/",
+    "TimeUpdated": "/Date(1553246711360+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6590447,
+      "Y": 1619405
+    },
+    "Id": "d16795a6-5065-46d8-a90f-3f4c87c8a519",
+    "Name": "Stenhagens bollplan",
+    "TimeCreated": "/Date(1207767818993+0200)/",
+    "TimeUpdated": "/Date(1542101743197+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6576271,
+      "Y": 1625724
+    },
+    "Id": "562c29c6-7095-4d12-b890-bf14905b0e1a",
+    "Name": "Solberga bollplan",
+    "TimeCreated": "/Date(1207772882357+0200)/",
+    "TimeUpdated": "/Date(1553248067193+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6575952,
+      "Y": 1626924
+    },
+    "Id": "9a244e13-5a1c-433a-8c49-f339a71d4672",
+    "Name": "Lisebergs bollplan",
+    "TimeCreated": "/Date(1341900486670+0200)/",
+    "TimeUpdated": "/Date(1553247491453+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6582967,
+      "Y": 1618324
+    },
+    "Id": "2d2ea893-0e20-467f-b30a-b2fc3316f218",
+    "Name": "Blackebergs bollplan",
+    "TimeCreated": "/Date(1207572828570+0200)/",
+    "TimeUpdated": "/Date(1553246848433+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6579648,
+      "Y": 1624218
+    },
+    "Id": "2ed8769f-4385-4b30-9ada-d0c453b27cba",
+    "Name": "Stora Essinge IP",
+    "TimeCreated": "/Date(1207766872140+0200)/",
+    "TimeUpdated": "/Date(1553245512150+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6574225,
+      "Y": 1619027
+    },
+    "Id": "706169fd-6723-47de-9a78-af85cc9b153f",
+    "Name": "Vårbergs IP",
+    "TimeCreated": "/Date(1207675665363+0200)/",
+    "TimeUpdated": "/Date(1537952940297+0200)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6575298,
+      "Y": 1626552
+    },
+    "Id": "d87dc1f4-82d0-440b-a338-9b751fa12a6f",
+    "Name": "Sjöängens bollplan",
+    "TimeCreated": "/Date(1207777389897+0200)/",
+    "TimeUpdated": "/Date(1549285126327+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6572484,
+      "Y": 1629025
+    },
+    "Id": "5f357017-1ceb-429a-96da-9b8d72915aad",
+    "Name": "Hökarängens bollplan",
+    "TimeCreated": "/Date(1207766384727+0200)/",
+    "TimeUpdated": "/Date(1553247318820+0100)/"
+  },
+  {
+    "GeographicalPosition": {
+      "X": 6584962,
+      "Y": 1620495
+    },
+    "Id": "f9a59190-ce7e-4554-97cd-9cb112e89ee7",
+    "Name": "Sundby bollplan",
+    "TimeCreated": "/Date(1207765467370+0200)/",
+    "TimeUpdated": "/Date(1542101146247+0100)/"
+  }
+
+]
