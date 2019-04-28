@@ -15,12 +15,17 @@ public class Station {
         this.stationName = stationName;
         this.pos = pos;
     }
-
+    public String getStationName(){
+        return stationName;
+    }
     public Position getPos(){
         return pos;
     }
     public Date getLastEmpty(){
         return lastEmpty;
+    }
+    public void setLastEmpty(){
+        lastEmpty = new Date();
     }
 
     public String toString(){
