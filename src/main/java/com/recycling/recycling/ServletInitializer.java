@@ -1,5 +1,6 @@
 package com.recycling.recycling;
 
+import com.recycling.Test.RecyclingApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 

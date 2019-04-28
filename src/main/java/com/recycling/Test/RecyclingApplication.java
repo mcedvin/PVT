@@ -1,4 +1,4 @@
-package com.recycling.recycling;
+package com.recycling.Test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
