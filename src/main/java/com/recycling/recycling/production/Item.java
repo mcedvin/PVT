@@ -9,6 +9,7 @@ public class Item {
     public Item(String name, int weight, Material material){
         this.name = name;
         this.weight = weight;
+        this.material = material;
     }
 
     public String getName(){
