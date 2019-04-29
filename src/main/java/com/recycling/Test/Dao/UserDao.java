@@ -15,9 +15,9 @@ public class UserDao {
     static {
         users = new HashMap<Integer, User>() {
             {
-                put(1, new User("Anders", "Andersson", "andersa@hotmail.com", new UserAccount(999, "password")));
-                put(2, new User("Måns", "Håkansson", "Monka12@hotmail.com", new UserAccount(1337, "lösenord123")));
-                put(3, new User("Stina", "Josefsson", "Stina19@hotmail.com", new UserAccount(112911, "iasufdhöaosdncölsamc")));
+                put(999, new User("Anders", "Andersson", "andersa@hotmail.com", new UserAccount(999, "password")));
+                put(1337, new User("Måns", "Håkansson", "Monka12@hotmail.com", new UserAccount(1337, "lösenord123")));
+                put(112911, new User("Stina", "Josefsson", "Stina19@hotmail.com", new UserAccount(112911, "iasufdhöaosdncölsamc")));
 
             }
         };
@@ -25,5 +25,19 @@ public class UserDao {
 
     public Collection<User> getAllUsers() {
         return users.values();
+    }
+    public User getUserById(int id){
+        return users.get(id);
+    }
+    public void removeUserById(int id){
+        users.remove(id);
+    }
+    public void updateUser(User updatedUser){
+//        User user = users.get(updatedUser.getUserAccount().getId());
+//        user.setEmail(updatedUser.getEmail());
+        users.put(updatedUser.getUserAccount().getId(), updatedUser);
+    }
+    public void addUser(User newUser){
+        users.put(newUser.getUserAccount().getId(), newUser);
     }
 }

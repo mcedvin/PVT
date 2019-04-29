@@ -11,9 +11,21 @@ import java.util.Collection;
 public class UserService {
 
     @Autowired
-    private UserDao UserDao;
+    private UserDao userDao;
 
     public Collection<User> getAllUsers() {
-        return UserDao.getAllUsers();
+        return userDao.getAllUsers();
+    }
+    public User getUserById(int id){
+        return userDao.getUserById(id);
+    }
+    public void removeUserById(int id){
+        userDao.removeUserById(id);
+    }
+    public void updateUser(User user){
+        userDao.updateUser(user);
+    }
+    public void addUser(User user){
+        userDao.addUser(user);
     }
 }
