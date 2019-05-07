@@ -10,7 +10,7 @@ import java.util.Collection;
 import java.util.List;
 
 @Repository
-@Qualifier("MySQL")
+//@Qualifier("MySQL")
 public class UserAccountSQLDao {
 
     @Autowired

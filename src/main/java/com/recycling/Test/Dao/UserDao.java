@@ -5,7 +5,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Collection;
 
-public interface UserDao extends JpaRepository<User, Integer> { //TODO: måste extendas någon annanstans
+public interface UserDao { //TODO: måste extendas någon annanstans
     public Collection<User> getAllUsers();
 
     public User getUserById(int id);

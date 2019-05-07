@@ -1,7 +1,20 @@
 package com.recycling.recycling.production;
 
-public class Material {
+import org.hibernate.annotations.GenericGenerator;
+
+import javax.persistence.*;
+import java.io.Serializable;
+
+@Entity
+@Table(name = "material")
+public class Material implements Serializable {
+//    @GeneratedValue
+//    @Id
+//    @Column(name = "materialType", length = 255)
+    @Id @GeneratedValue(generator="system-uuid")
+    @GenericGenerator(name="system-uuid", strategy = "uuid")
     private String materialType;
+    @Column(name = "emmission")
     private double Co2Emmission; //per gram
 
     public Material(String materialType, double Co2Emmission) {

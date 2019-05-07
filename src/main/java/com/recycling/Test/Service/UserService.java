@@ -13,7 +13,7 @@ import java.util.Collection;
 public class UserService {
 
     @Autowired
-    @Qualifier("MySQL")
+//    @Qualifier("MySQL")
     private UserSQLDao userDao;
 
     public Collection<User> getAllUsers() {

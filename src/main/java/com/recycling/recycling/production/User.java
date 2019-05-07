@@ -1,42 +1,47 @@
 package com.recycling.recycling.production;
 
 
+import org.hibernate.annotations.GenericGenerator;
+
 import javax.persistence.*;
 import java.io.Serializable;
 
 @Entity
-@Table(name = "USER")
+@Table(name = "user")
 public class User implements Serializable {
-    @GeneratedValue
     @Column(name = "FirstName")
     private String firstName;
     @Column(name = "LastName")
     private String lastName;
+    //    @GeneratedValue
+//    @Id
+//    @GeneratedValue(generator = "system-uuid")
+//    @GenericGenerator(name = "system-uuid", strategy = "uuid")
+    @Column(name = "email")
     @Id
-    @Column(name = "Email")
     private String email;
-    @OneToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "account")
-    private UserAccount userAccount;
+//    @OneToOne(optional = false)
+//    @JoinColumn(nullable = false, name = "UserAccount")
+//    private UserAccount userAccount; //TODO: dessa ska fixas
 
     public User() {
 
     }
 
-    public User(String firstName, String lastName, String email, UserAccount userAccount) {
+    public User(String firstName, String lastName, String email) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.email = email;
-        this.userAccount = userAccount;
+//        this.userAccount = userAccount;
     }
 
-    public UserAccount getUserAccount() {
-        return userAccount;
-    }
-
-    public void setUserAccount(UserAccount userAccount) {
-        this.userAccount = userAccount;
-    }
+//    public UserAccount getUserAccount() {
+//        return userAccount;
+//    }
+//
+//    public void setUserAccount(UserAccount userAccount) {
+//        this.userAccount = userAccount;
+//    }
 
     public String getFirstName() {
         return firstName;

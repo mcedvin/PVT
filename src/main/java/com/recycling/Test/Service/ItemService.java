@@ -1,8 +1,9 @@
 package com.recycling.Test.Service;
 
-import com.recycling.Test.Dao.ItemDao;
+import com.recycling.Test.Dao.ItemSQLDao;
 import com.recycling.recycling.production.Item;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
 import java.util.Collection;
@@ -11,9 +12,14 @@ import java.util.Collection;
 public class ItemService {
 
     @Autowired
-    private ItemDao ItemDao;
+//    @Qualifier("MySQL")
+    private ItemSQLDao itemDao;
 
     public Collection<Item> getAllItems() {
-        return ItemDao.getAllItems();
+        return itemDao.getAllItems();
+    }
+
+    public void addItem(Item item){
+        itemDao.addItem(item);
     }
 }

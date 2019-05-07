@@ -3,15 +3,13 @@ package com.recycling.Test.Dao;
 import com.recycling.DB.repository.UsersRepository;
 import com.recycling.recycling.production.User;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Repository;
 
 import java.util.Collection;
-import java.util.List;
 
 @Repository
-@Qualifier("MySQL")
-public class UserSQLDao {
+//@Qualifier("MySQL")
+public class UserSQLDao implements UserDao{
 
     @Autowired
     UsersRepository usersRepository;
@@ -30,10 +28,9 @@ public class UserSQLDao {
     }
 
     public void updateUser(User updatedUser){
-
     }
 
     public void addUser(User newUser){
-
+        usersRepository.save((newUser));
     }
 }
