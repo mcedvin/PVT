@@ -1,11 +1,27 @@
 package com.recycling.recycling.production;
 
-public class User {
 
+import javax.persistence.*;
+import java.io.Serializable;
+
+@Entity
+@Table(name = "USER")
+public class User implements Serializable {
+    @GeneratedValue
+    @Column(name = "FirstName")
     private String firstName;
+    @Column(name = "LastName")
     private String lastName;
+    @Id
+    @Column(name = "Email")
     private String email;
+    @OneToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "account")
     private UserAccount userAccount;
+
+    public User() {
+
+    }
 
     public User(String firstName, String lastName, String email, UserAccount userAccount) {
         this.firstName = firstName;
@@ -16,6 +32,10 @@ public class User {
 
     public UserAccount getUserAccount() {
         return userAccount;
+    }
+
+    public void setUserAccount(UserAccount userAccount) {
+        this.userAccount = userAccount;
     }
 
     public String getFirstName() {
