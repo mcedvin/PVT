@@ -9,10 +9,10 @@ import java.io.Serializable;
 @Table(name = "material")
 public class Material implements Serializable {
 //    @GeneratedValue
-//    @Id
-//    @Column(name = "materialType", length = 255)
-    @Id @GeneratedValue(generator="system-uuid")
-    @GenericGenerator(name="system-uuid", strategy = "uuid")
+//    @Id @GeneratedValue(generator="system-uuid")
+//    @GenericGenerator(name="system-uuid", strategy = "uuid")
+    @Id
+    @Column(name = "materialType", length = 100)
     private String materialType;
     @Column(name = "emmission")
     private double Co2Emmission; //per gram
