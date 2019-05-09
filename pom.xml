@@ -63,16 +63,16 @@
 <!--		</dependency>-->
 	</dependencies>
 
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-				<configuration>
-					<mainClass>com.recycling.Test.RecyclingApplication</mainClass>
-<!--					<mainClass>com.recycling.DB.SpringBootMysqldbApplication</mainClass>-->
-				</configuration>
-			</plugin>
-		</plugins>
-	</build>
+<!--	<build>-->
+<!--		<plugins>-->
+<!--			<plugin>-->
+<!--				<groupId>org.springframework.boot</groupId>-->
+<!--				<artifactId>spring-boot-maven-plugin</artifactId>-->
+<!--				<configuration>-->
+<!--					<mainClass>com.recycling.Test.RecyclingApplication</mainClass>-->
+<!--&lt;!&ndash;					<mainClass>com.recycling.DB.SpringBootMysqldbApplication</mainClass>&ndash;&gt;-->
+<!--				</configuration>-->
+<!--			</plugin>-->
+<!--		</plugins>-->
+<!--	</build>-->
 </project>
