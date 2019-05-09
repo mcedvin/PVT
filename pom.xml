@@ -70,7 +70,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<mainClass>com.recycling.Test.RecyclingApplication</mainClass>
-<!--					<mainClass>com.recycling.DB.SpringBootMysqldbApplication</mainClass>-->
 				</configuration>
 			</plugin>
 		</plugins>

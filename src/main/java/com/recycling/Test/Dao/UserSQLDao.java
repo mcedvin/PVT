@@ -24,10 +24,10 @@ public class UserSQLDao implements UserDao{
     }
 
     public void removeUserById(int id){
-
     }
 
     public void updateUser(User updatedUser){
+
     }
 
     public void addUser(User newUser){

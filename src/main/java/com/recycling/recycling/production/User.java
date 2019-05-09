@@ -16,6 +16,7 @@ public class User implements Serializable {
     //    @GeneratedValue
 //    @GeneratedValue(generator = "system-uuid")
 //    @GenericGenerator(name = "system-uuid", strategy = "uuid")
+
     @Column(name = "email", length = 100)
     @Id
     private String email;
